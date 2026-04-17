@@ -1,5 +1,6 @@
 # for define the app project structure!
 # sqlite doesn't know file structure
+# this define "what kind of data are there?"
 
 from sqlalchemy import String, Float, DateTime, Integer, ForeignKey
 from sqlalchemy.orm import Mapped, mapped_column # for defining tables in python

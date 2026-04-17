@@ -52,6 +52,10 @@ A single page UI that supports:
 - View watchlist rows with latest price + % from baseline
 - View recent alerts list
 
+### Current v0 Layout
+- `v0/backend/` contains the FastAPI API and SQLite persistence
+- `v0/frontend/` contains the React + Vite dashboard
+
 ---
 
 ## Out of Scope (v0)
